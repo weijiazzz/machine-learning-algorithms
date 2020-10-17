@@ -17,6 +17,6 @@ This repo contains the assignments/projects I did for courses I took at Universi
 
 ---
 
--[Association Rules](https://github.com/weijiazzz/machine-learning-coursework/blob/add_projects/association_rules/association_rules.ipynb): Implemented the A-prior Algorithm to find items that are frequently bought together. 
+- [Association Rules](https://github.com/weijiazzz/machine-learning-coursework/blob/add_projects/association_rules/association_rules.ipynb): Implemented the A-prior Algorithm to find items that are frequently bought together. 
 
 ---
